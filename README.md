@@ -6,7 +6,8 @@
 
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
-
+[![npm version](https://img.shields.io/npm/v/playwright.svg?style=flat)](https://www.npmjs.com/package/playwright) [![Join Slack](https://img.shields.io/badge/join-slack-infomational)](https://join.slack.com/t/newworkspace-lea5369/shared_invite/zt-k72rpozl-jWUMJ25jHnT9iqcodl1xzg) <!-- GEN:chromium-version-badge -->[![Chromium version](https://img.shields.io/badge/chromium-89.0.4344.0-blue.svg?logo=google-chrome)](https://www.chromium.org/Home)<!-- GEN:stop --> <!-- GEN:firefox-version-badge -->[![Firefox version](https://img.shields.io/badge/firefox-84.0b9-blue.svg?logo=mozilla-firefox)](https://www.mozilla.org/en-US/firefox/new/)<!-- GEN:stop --> [![WebKit version](https://img.shields.io/badge/webkit-14.0-blue.svg?logo=safari)](https://webkit.org/)
+<br>
 
 [![forthebadge](https://forthebadge.com/images/badges/built-by-developers.svg)](https://forthebadge.com)
 [![forthebadge](https://forthebadge.com/images/badges/uses-html.svg)](https://forthebadge.com)
@@ -76,5 +77,19 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
 
 This project follows the [all-contributors](https://github.com/all-contributors/all-contributors) specification. Contributions of any kind welcome!
 
-## 📜 LICENSE
-GPL-3.0 License
+
+
+## ❤️ Project Admins
+<a href="https://github.com/harshcasper"><img src="https://media-exp1.licdn.com/dms/image/C4E03AQEvQPzsPH7eHg/profile-displayphoto-shrink_400_400/0/1587370331042?e=1613001600&v=beta&t=nPG35kZN-Zqto660EmxBEB9vu8BoveAdEfTA9UKnUtg" width=150px height=150px  /></a>                                      |
+| :-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
+|                                                                                      **[Naman Khatwani](https://www.linkedin.com/in/naman-khatwani-6695ba1a7/)**                                                                                       |
+| <a href="https://www.linkedin.com/in/harsh-bardhan-mishra-b19990173/"><img src="https://mpng.subpng.com/20180324/vhe/kisspng-linkedin-computer-icons-logo-social-networking-ser-facebook-5ab6ebfe5f5397.2333748215219374063905.jpg" width="32px" height="32px"></a> |
+
+
+|                                     <a href="https://github.com/harshcasper"><img src="https://media-exp1.licdn.com/dms/image/C4D03AQFAsUfcW2vIYw/profile-displayphoto-shrink_400_400/0/1602399053433?e=1613001600&v=beta&t=2fan0IBNl_hTQnpZ1ray3b9Xpzgoi7uPzoUL4tWIVaE" width=150px height=150px /></a>                                      |
+| :-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
+|                                                                                      **[Ritesh Kumar](https://www.linkedin.com/in/ritesh-kumar0/)**                                                                                       |
+| <a href="https://www.linkedin.com/in/harsh-bardhan-mishra-b19990173/"><img src="https://mpng.subpng.com/20180324/vhe/kisspng-linkedin-computer-icons-logo-social-networking-ser-facebook-5ab6ebfe5f5397.2333748215219374063905.jpg" width="32px" height="32px"></a> |
+
+> **_Need help? Feel free to contact me @ [riteshraina00@gmail.com](mailto:riteshraina00@gmail.com?Subject=RottenScripts)_**
+
