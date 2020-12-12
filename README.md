@@ -1,4 +1,4 @@
-# DSC WoW
+# Mysuru Destination Platform 
 
 
 
@@ -13,24 +13,25 @@
 
 
 ## 📌 Introduction
-
+As we all kmow that the cultural ambiance and achievements of Mysuru earned it the sobriquet Cultural 
+Capital of Karnataka. Mysuru is noted for its heritage structures and palaces, including 
+the Mysuru Palace, and for the festivities that take place during the Dasara festival 
+when the city receives many tourists from around the world.So here we are building a website for Mysuru Destination Platform.
 
 
 
 ## 💻 Languages used in this project
 
--[HTML](https://www.w3.org/TR/html52/)
--[CSS](https://developer.mozilla.org/en-US/docs/Web/CSS)
--[Javascript](https://developer.mozilla.org/en-US/docs/Web/JavaScript) based frontend
-
-
-
-
-
+- [HTML](https://www.w3.org/TR/html52/)
+- [CSS](https://developer.mozilla.org/en-US/docs/Web/CSS)
+- [JavaScript](https://github.com/HarshCasper/Rotten-Scripts/tree/master/JavaScript) based frontend
 
 
 ## Resources 🤗
-
+- [Documentation](https://www.w3.org/TR/html52/)
+- [Contribution guide](https://www.w3.org/TR/html52/)
+- [Changelog](https://www.w3.org/TR/html52/)
+- [Community showcase](https://www.w3.org/TR/html52/)
 
 
 
@@ -74,3 +75,4 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
 This project follows the [all-contributors](https://github.com/all-contributors/all-contributors) specification. Contributions of any kind welcome!
 
 ## 📜 LICENSE
+OpenEvent Website Generato
