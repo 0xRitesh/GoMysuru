@@ -91,5 +91,5 @@ This project follows the [all-contributors](https://github.com/all-contributors/
 |                                                                                      **[Ritesh Kumar](https://www.linkedin.com/in/ritesh-kumar0/)**                                                                                       |
 | <a href="https://www.linkedin.com/in/harsh-bardhan-mishra-b19990173/"><img src="https://mpng.subpng.com/20180324/vhe/kisspng-linkedin-computer-icons-logo-social-networking-ser-facebook-5ab6ebfe5f5397.2333748215219374063905.jpg" width="32px" height="32px"></a> |
 
-> **_Need help? Feel free to contact me @ [riteshraina00@gmail.com](mailto:riteshraina00@gmail.com?Subject=RottenScripts)_**
+> **_Need help? Feel free to contact me @ [therealritesh0@gmail.com](mailto:therealritesh0@gmail.com?Subject=RottenScripts)_**
 
