@@ -18,9 +18,10 @@
 
 
 ## 💻 Languages used in this project
-[HTML](https://www.w3.org/TR/html52/)
-[CSS](https://developer.mozilla.org/en-US/docs/Web/CSS)
-[Javascript] based frontend
+
+-[HTML](https://www.w3.org/TR/html52/)
+-[CSS](https://developer.mozilla.org/en-US/docs/Web/CSS)
+-[Javascript](https://developer.mozilla.org/en-US/docs/Web/JavaScript) based frontend
 
 
 
