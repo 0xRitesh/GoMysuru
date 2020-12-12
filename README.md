@@ -9,6 +9,8 @@
 
 
 [![forthebadge](https://forthebadge.com/images/badges/built-by-developers.svg)](https://forthebadge.com)
+[![forthebadge](https://forthebadge.com/images/badges/uses-html.svg)](https://forthebadge.com)
+[![forthebadge](https://forthebadge.com/images/badges/made-with-javascript.svg)](https://forthebadge.com)
 [![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com)
 
 
@@ -59,7 +61,7 @@ You can refer to the following articles on the basics of Git and Github and also
 - Having difficulty in contributing? Read the [Contribution Guide] for a detailed explanation.
 
 ## 📋 Further Changes to be Done
-
+need to devlope the chatbot
 
 
 ## Contributors ✨
@@ -75,4 +77,4 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
 This project follows the [all-contributors](https://github.com/all-contributors/all-contributors) specification. Contributions of any kind welcome!
 
 ## 📜 LICENSE
-OpenEvent Website Generato
+GPL-3.0 License
