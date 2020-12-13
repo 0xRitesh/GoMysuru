@@ -27,7 +27,7 @@ when the city receives many tourists from around the world.So here we are buildi
 
 - [HTML](https://www.w3.org/TR/html52/)
 - [CSS](https://developer.mozilla.org/en-US/docs/Web/CSS)
-- [JavaScript](https://github.com/HarshCasper/Rotten-Scripts/tree/master/JavaScript) based frontend
+- [JavaScript](https://github.com/HarshCasper/Rotten-Scripts/tree/master/JavaScript)
 
 
 ## Resources 🤗
