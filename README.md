@@ -62,7 +62,13 @@ You can refer to the following articles on the basics of Git and Github and also
 - Having difficulty in contributing? Read the [Contribution Guide] for a detailed explanation.
 
 ## 📋 Further Changes to be Done
-need to devlope the chatbot
+
+- [ ] Deploying the Website on Cloud.
+- [ ] Development of the online Virtual tour tool (using Ar/Vr).
+- [ ] Enhance the User-Interface using HTML/CSS.
+- [ ] need to devlope a chatbot.
+- [ ] Improve the Quality of Predictions of weather.
+- [ ] Add a more interactive User-Interface and integrate various other parameters.
 
 
 ## Contributors ✨
@@ -91,5 +97,8 @@ This project follows the [all-contributors](https://github.com/all-contributors/
 |                                                                                      **[Ritesh Kumar](https://www.linkedin.com/in/ritesh-kumar0/)**                                                                                       |
 | <a href="https://www.linkedin.com/in/harsh-bardhan-mishra-b19990173/"><img src="https://mpng.subpng.com/20180324/vhe/kisspng-linkedin-computer-icons-logo-social-networking-ser-facebook-5ab6ebfe5f5397.2333748215219374063905.jpg" width="32px" height="32px"></a> |
 
-> **_Need help? Feel free to contact me @ [therealritesh0@gmail.com](mailto:therealritesh0@gmail.com?Subject=Mysuru Destination Platform )_**
+> **_Need help? Feel free to contact me @ [therealritesh0@gmail.com](mailto:therealritesh0@gmail.com?Subject=Mysuru-Destination-Platform)_**
+
+
+
 
