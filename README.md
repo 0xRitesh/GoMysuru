@@ -86,16 +86,16 @@ This project follows the [all-contributors](https://github.com/all-contributors/
 
 
 ## ❤️ Project Admins
-<a href="https://github.com/harshcasper"><img src="https://media-exp1.licdn.com/dms/image/C4E03AQEvQPzsPH7eHg/profile-displayphoto-shrink_400_400/0/1587370331042?e=1613001600&v=beta&t=nPG35kZN-Zqto660EmxBEB9vu8BoveAdEfTA9UKnUtg" width=150px height=150px  /></a>                                      |
+<a href="https://github.com/wordssaysalot"><img src="https://media-exp1.licdn.com/dms/image/C4E03AQGr9ys-5L_Pgg/profile-displayphoto-shrink_400_400/0/1608458833222?e=1614211200&v=beta&t=Bot5mhbGXQIYFygmUYakDq8xC2Gt6zxpGSskZ-zcd5c" width=150px height=150px  /></a>                                      |
 | :-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
 |                                                                                      **[Naman Khatwani](https://www.linkedin.com/in/naman-khatwani-6695ba1a7/)**                                                                                       |
-| <a href="https://www.linkedin.com/in/harsh-bardhan-mishra-b19990173/"><img src="https://mpng.subpng.com/20180324/vhe/kisspng-linkedin-computer-icons-logo-social-networking-ser-facebook-5ab6ebfe5f5397.2333748215219374063905.jpg" width="32px" height="32px"></a> |
+| <a href="https://www.linkedin.com/in/naman-khatwani-6695ba1a7/"><img src="https://mpng.subpng.com/20180324/vhe/kisspng-linkedin-computer-icons-logo-social-networking-ser-facebook-5ab6ebfe5f5397.2333748215219374063905.jpg" width="32px" height="32px"></a> |
 
 
-|                                     <a href="https://github.com/harshcasper"><img src="https://media-exp1.licdn.com/dms/image/C4D03AQFAsUfcW2vIYw/profile-displayphoto-shrink_400_400/0/1602399053433?e=1613001600&v=beta&t=2fan0IBNl_hTQnpZ1ray3b9Xpzgoi7uPzoUL4tWIVaE" width=150px height=150px /></a>                                      |
+|                                     <a href="https://github.com/wordssaysalot"><img src="https://media-exp1.licdn.com/dms/image/C4D03AQFAsUfcW2vIYw/profile-displayphoto-shrink_400_400/0/1602399053433?e=1613001600&v=beta&t=2fan0IBNl_hTQnpZ1ray3b9Xpzgoi7uPzoUL4tWIVaE" width=150px height=150px /></a>                                      |
 | :-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
 |                                                                                      **[Ritesh Kumar](https://www.linkedin.com/in/ritesh-kumar0/)**                                                                                       |
-| <a href="https://www.linkedin.com/in/harsh-bardhan-mishra-b19990173/"><img src="https://mpng.subpng.com/20180324/vhe/kisspng-linkedin-computer-icons-logo-social-networking-ser-facebook-5ab6ebfe5f5397.2333748215219374063905.jpg" width="32px" height="32px"></a> |
+| <a href="https://www.linkedin.com/in/ritesh-kumar0/"><img src="https://mpng.subpng.com/20180324/vhe/kisspng-linkedin-computer-icons-logo-social-networking-ser-facebook-5ab6ebfe5f5397.2333748215219374063905.jpg" width="32px" height="32px"></a> |
 
 > **_Need help? Feel free to contact me @ [therealritesh0@gmail.com](mailto:therealritesh0@gmail.com?Subject=Mysuru-Destination-Platform)_**
 
