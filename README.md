@@ -17,10 +17,10 @@
 
 
 ## 📌 Introduction
-As we all kmow that the cultural ambiance and achievements of Mysuru earned it the sobriquet Cultural 
+As we all know, the cultural ambiance and achievements of Mysuru earned it the sobriquet Cultural 
 Capital of Karnataka. Mysuru is noted for its heritage structures and palaces, including 
 the Mysuru Palace, and for the festivities that take place during the Dasara festival 
-when the city receives many tourists from around the world.So here we are building a website for Mysuru Destination Platform.
+when the city receives many tourists from around the world.So here we are, building a website for Mysuru Destination Platform aiming to encourage the tourism industry of the area, by trying our best to give the user a good deal of experience.
 
 
 
