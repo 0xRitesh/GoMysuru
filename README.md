@@ -9,11 +9,6 @@
 [![npm version](https://img.shields.io/npm/v/playwright.svg?style=flat)](https://www.npmjs.com/package/playwright) [![Join Slack](https://img.shields.io/badge/join-slack-infomational)](https://join.slack.com/t/newworkspace-lea5369/shared_invite/zt-k72rpozl-jWUMJ25jHnT9iqcodl1xzg) <!-- GEN:chromium-version-badge -->[![Chromium version](https://img.shields.io/badge/chromium-89.0.4344.0-blue.svg?logo=google-chrome)](https://www.chromium.org/Home)<!-- GEN:stop --> <!-- GEN:firefox-version-badge -->[![Firefox version](https://img.shields.io/badge/firefox-84.0b9-blue.svg?logo=mozilla-firefox)](https://www.mozilla.org/en-US/firefox/new/)<!-- GEN:stop --> [![WebKit version](https://img.shields.io/badge/webkit-14.0-blue.svg?logo=safari)](https://webkit.org/)
 <br>
 
-[![forthebadge](https://forthebadge.com/images/badges/built-by-developers.svg)](https://forthebadge.com)
-[![forthebadge](https://forthebadge.com/images/badges/uses-html.svg)](https://forthebadge.com)
-[![forthebadge](https://forthebadge.com/images/badges/made-with-javascript.svg)](https://forthebadge.com)
-[![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com)
-
 
 ## 📌 Introduction
 As we all kmow that the cultural ambiance and achievements of Mysuru earned it the sobriquet Cultural 
@@ -71,33 +66,56 @@ You can refer to the following articles on the basics of Git and Github and also
 - [ ] Add a more interactive User-Interface and integrate various other parameters.
 
 
+## Team:
+
+> "Alone we can do so little; together we can do so much."
+
+| S.No. | Name  | GitHub Username:octocat: |
+| ---------------  | --------------- | --------------- |
+| 1. | Naman Khatwani | [@naman2403](https://github.com/naman2403) |
+| 2. | Ritesh Kumar | [@wordssaysalot](https://github.com/wordssaysaysalot)  |
+
+
+
+## Code Off Duty 2020
+> This project was made within the span of 2 days under hackathon of DSC wow.
+
+<a href="https://hackathon.dscwow.tech/" target="_blank" rel="noopener">
+<img src="https://pbs.twimg.com/profile_banners/1324038115900579840/1606052153/1080x360" alt='DSC WOW' width='700' height='250'>
+</a>
+
 ## Contributors ✨
 
+Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/docs/en/emoji-key)):
 
-
+<!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
+<!-- prettier-ignore-start -->
+<!-- markdownlint-disable -->
+<table>
+  <tbody><tr>
+    <td align="center"><a href="https://www.linkedin.com/in/ritesh-kumar-438b2119b/"><img alt="" src="https://media-exp1.licdn.com/dms/image/C4D03AQFiX97An5hzOQ/profile-displayphoto-shrink_400_400/0/1609770257872?e=1615420800&v=beta&t=GR3YKOc8TEdzgyaMbMiBin6n7YirjV-MxFtG_p80yx4" width="100px;"><br><sub><b>RItesh kumar</b></sub></a><br><a href="https://github.com/wordssaysalot/GoMysuru" title="Code and design">💻🎨</a></td>
+         <td align="center"><a href="https://www.linkedin.com/in/naman-khatwani-6695ba1a7/"><img alt="" src="https://media-exp1.licdn.com/dms/image/C4E03AQGr9ys-5L_Pgg/profile-displayphoto-shrink_400_400/0/1608458833222?e=1615420800&v=beta&t=jUutTNoxrvQi4I_bob_SF473xHzQbd9uKDSeB0YavNI" width="100px;"><br><sub><b>Naman Khatwani</b></sub></a><br><a href="https://github.com/wordssaysalot/GoMysuru" title="Code">💻</a></td>
+  </tr>
+</tbody></table>
 
 
 <!-- markdownlint-enable -->
 <!-- prettier-ignore-end -->
 <!-- ALL-CONTRIBUTORS-LIST:END -->
 
-This project follows the [all-contributors](https://github.com/all-contributors/all-contributors) specification.Contributions of any kind welcome!
+This project follows the [all-contributors](https://github.com/all-contributors/all-contributors) specification. Contributions of any kind welcome!
 
+                                                                                      
 
+> **_Need help?_**
+>**_Join our [slack community](https://join.slack.com/t/gomysuru/shared_invite/zt-k72rpozl-jWUMJ25jHnT9iqcodl1xzg) or Feel free to contact me @ [therealritesh0@gmail.com](mailto:therealritesh0@gmail.com?Subject=Mysuru-Destination-Platform)_**
 
-## ❤️ Project Admins
-<a href="https://github.com/wordssaysalot"><img src="https://media-exp1.licdn.com/dms/image/C4E03AQGr9ys-5L_Pgg/profile-displayphoto-shrink_400_400/0/1608458833222?e=1614211200&v=beta&t=Bot5mhbGXQIYFygmUYakDq8xC2Gt6zxpGSskZ-zcd5c" width=150px height=150px  /></a>                                      |
-| :-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
-|                                                                                      **[Naman Khatwani](https://www.linkedin.com/in/naman-khatwani-6695ba1a7/)**                                                                                       |
-| <a href="https://www.linkedin.com/in/naman-khatwani-6695ba1a7/"><img src="https://mpng.subpng.com/20180324/vhe/kisspng-linkedin-computer-icons-logo-social-networking-ser-facebook-5ab6ebfe5f5397.2333748215219374063905.jpg" width="32px" height="32px"></a> |
-
-
-|                                     <a href="https://github.com/wordssaysalot"><img src="https://media-exp1.licdn.com/dms/image/C4D03AQFAsUfcW2vIYw/profile-displayphoto-shrink_400_400/0/1602399053433?e=1613001600&v=beta&t=2fan0IBNl_hTQnpZ1ray3b9Xpzgoi7uPzoUL4tWIVaE" width=150px height=150px /></a>                                      |
-| :-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
-|                                                                                      **[Ritesh Kumar](https://www.linkedin.com/in/ritesh-kumar0/)**                                                                                       |
-| <a href="https://www.linkedin.com/in/ritesh-kumar0/"><img src="https://mpng.subpng.com/20180324/vhe/kisspng-linkedin-computer-icons-logo-social-networking-ser-facebook-5ab6ebfe5f5397.2333748215219374063905.jpg" width="32px" height="32px"></a> |
-
-> **_Need help? Feel free to contact me @ [therealritesh0@gmail.com](mailto:therealritesh0@gmail.com?Subject=Mysuru-Destination-Platform)_**
+[![Uses Git](https://forthebadge.com/images/badges/uses-git.svg)](https://forthebadge.com)
+[![forthebadge](https://forthebadge.com/images/badges/built-by-developers.svg)](https://forthebadge.com)
+[![forthebadge](https://forthebadge.com/images/badges/uses-html.svg)](https://forthebadge.com)
+[![forthebadge](https://forthebadge.com/images/badges/made-with-javascript.svg)](https://forthebadge.com)
+ [![Uses CSS](https://forthebadge.com/images/badges/uses-css.svg)](https://forthebadge.com)
+[![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com)
 
 
 
