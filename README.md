@@ -8,6 +8,12 @@
 
 [![npm version](https://img.shields.io/npm/v/playwright.svg?style=flat)](https://www.npmjs.com/package/playwright) [![Join Slack](https://img.shields.io/badge/join-slack-infomational)](https://join.slack.com/t/newworkspace-lea5369/shared_invite/zt-k72rpozl-jWUMJ25jHnT9iqcodl1xzg) <!-- GEN:chromium-version-badge -->[![Chromium version](https://img.shields.io/badge/chromium-89.0.4344.0-blue.svg?logo=google-chrome)](https://www.chromium.org/Home)<!-- GEN:stop --> <!-- GEN:firefox-version-badge -->[![Firefox version](https://img.shields.io/badge/firefox-84.0b9-blue.svg?logo=mozilla-firefox)](https://www.mozilla.org/en-US/firefox/new/)<!-- GEN:stop --> [![WebKit version](https://img.shields.io/badge/webkit-14.0-blue.svg?logo=safari)](https://webkit.org/)
 <br>
+[![Uses Git](https://forthebadge.com/images/badges/uses-git.svg)](https://forthebadge.com)
+[![forthebadge](https://forthebadge.com/images/badges/built-by-developers.svg)](https://forthebadge.com)
+[![forthebadge](https://forthebadge.com/images/badges/uses-html.svg)](https://forthebadge.com)
+[![forthebadge](https://forthebadge.com/images/badges/made-with-javascript.svg)](https://forthebadge.com)
+ [![Uses CSS](https://forthebadge.com/images/badges/uses-css.svg)](https://forthebadge.com)
+[![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com)
 
 
 ## 📌 Introduction
@@ -109,14 +115,6 @@ This project follows the [all-contributors](https://github.com/all-contributors/
 
 > **_Need help?_**
 >**_Join our [slack community](https://join.slack.com/t/gomysuru/shared_invite/zt-k72rpozl-jWUMJ25jHnT9iqcodl1xzg) or Feel free to contact me @ [therealritesh0@gmail.com](mailto:therealritesh0@gmail.com?Subject=Mysuru-Destination-Platform)_**
-
-[![Uses Git](https://forthebadge.com/images/badges/uses-git.svg)](https://forthebadge.com)
-[![forthebadge](https://forthebadge.com/images/badges/built-by-developers.svg)](https://forthebadge.com)
-[![forthebadge](https://forthebadge.com/images/badges/uses-html.svg)](https://forthebadge.com)
-[![forthebadge](https://forthebadge.com/images/badges/made-with-javascript.svg)](https://forthebadge.com)
- [![Uses CSS](https://forthebadge.com/images/badges/uses-css.svg)](https://forthebadge.com)
-[![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com)
-
 
 
 
