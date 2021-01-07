@@ -111,10 +111,13 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
 
 This project follows the [all-contributors](https://github.com/all-contributors/all-contributors) specification. Contributions of any kind welcome!
 
+## Slack Channel
+[![chat on slack](https://img.shields.io/badge/chat-on%20slack-brightgreen)](https://join.slack.com/t/codeinnworkspace/shared_invite/zt-hncwfhlc-uZ48U49lBxBLKh_Xd1aXxQ)
+<!-- [https://join.slack.com/t/gomysuru/shared_invite/zt-k72rpozl-jWUMJ25jHnT9iqcodl1xzg)-->
                                                                                       
 
 > **_Need help?_**
->**_Join our [slack community](https://join.slack.com/t/gomysuru/shared_invite/zt-k72rpozl-jWUMJ25jHnT9iqcodl1xzg) or Feel free to contact me @ [therealritesh0@gmail.com](mailto:therealritesh0@gmail.com?Subject=Mysuru-Destination-Platform)_**
+>**_ Feel free to contact me @ [therealritesh0@gmail.com](mailto:therealritesh0@gmail.com?Subject=Mysuru-Destination-Platform)_**
 
 
 
