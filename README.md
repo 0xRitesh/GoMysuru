@@ -1,4 +1,5 @@
-# Mysuru Destination Platform 
+# GoMysuru - A Mysuru Destination Platform 
+<a href="https://imgbb.com/"><img height="140" src="https://i.ibb.co/x5LcFS8/gomysuru-logo.png" alt="gomysuru-logo" border="0"></a>
 
 
 
