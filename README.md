@@ -117,7 +117,7 @@ This project follows the [all-contributors](https://github.com/all-contributors/
 <!-- [https://join.slack.com/t/gomysuru/shared_invite/zt-k72rpozl-jWUMJ25jHnT9iqcodl1xzg)-->
                                                                                       
 
-> **_Need help?_**
+> ***_Need help?_***
 >**_ Feel free to contact me @ [therealritesh0@gmail.com](mailto:therealritesh0@gmail.com?Subject=Mysuru-Destination-Platform)_**
 
 
