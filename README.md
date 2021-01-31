@@ -1,6 +1,6 @@
 # GoMysuru - A Mysuru Destination Platform 
-<a href="https://imgbb.com/"><img height="140" src="https://i.ibb.co/x5LcFS8/gomysuru-logo.png" alt="gomysuru-logo" border="0"></a>
-
+<p align="center">
+<a href="https://imgbb.com/"><img  src="https://i.ibb.co/x5LcFS8/gomysuru-logo.png" alt="gomysuru-logo"   height="200" border="0"></a>
 
 
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
