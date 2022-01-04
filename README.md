@@ -80,15 +80,15 @@ You can refer to the following articles on the basics of Git and Github and also
 | S.No. | Name  | GitHub Username:octocat: |
 | ---------------  | --------------- | --------------- |
 | 1. | Naman Khatwani | [@naman2403](https://github.com/naman2403) |
-| 2. | Ritesh Kumar | [@wordssaysalot](https://github.com/wordssaysaysalot)  |
+| 2. | Ritesh Kumar | [@0xRitesh](https://github.com/0xRitesh)  |
 
 
 
 ## Code Off Duty 2020
 > This project was made within the span of 2 days under hackathon of DSC wow.
 
-<a href="https://hackathon.dscwow.tech/" target="_blank" rel="noopener">
-<img src="https://pbs.twimg.com/profile_banners/1324038115900579840/1606052153/1080x360" alt='DSC WOW' width='700' height='250'>
+<a href="https://gdsc.community.dev/events/details/developer-student-clubs-university-of-petroleum-energy-studies-presents-dsc-wow-indias-biggest-collaboration-prizes-worth-10-lakhs/" target="_blank" rel="noopener">
+<img src="https://i.ibb.co/pKjNzy2/maxresdefault.jpg" alt='DSC WOW' width='1280' height='520'>
 </a>
 
 ## Contributors ✨
@@ -100,7 +100,7 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
 <!-- markdownlint-disable -->
 <table>
   <tbody><tr>
-    <td align="center"><a href="https://www.linkedin.com/in/ritesh-kumar-438b2119b/"><img alt="" src="https://media-exp1.licdn.com/dms/image/C4D03AQFiX97An5hzOQ/profile-displayphoto-shrink_400_400/0/1609770257872?e=1615420800&v=beta&t=GR3YKOc8TEdzgyaMbMiBin6n7YirjV-MxFtG_p80yx4" width="100px;"><br><sub><b>RItesh kumar</b></sub></a><br><a href="https://github.com/wordssaysalot/GoMysuru" title="Code and design">💻🎨</a></td>
+    <td align="center"><a href="https://www.linkedin.com/in/heyritesh"><img alt="" src="https://media-exp1.licdn.com/dms/image/C4D03AQFiX97An5hzOQ/profile-displayphoto-shrink_400_400/0/1609770257872?e=1615420800&v=beta&t=GR3YKOc8TEdzgyaMbMiBin6n7YirjV-MxFtG_p80yx4" width="100px;"><br><sub><b>RItesh kumar</b></sub></a><br><a href="https://github.com/wordssaysalot/GoMysuru" title="Code and design">💻🎨</a></td>
          <td align="center"><a href="https://www.linkedin.com/in/naman-khatwani-6695ba1a7/"><img alt="" src="https://media-exp1.licdn.com/dms/image/C4E03AQGr9ys-5L_Pgg/profile-displayphoto-shrink_400_400/0/1608458833222?e=1615420800&v=beta&t=jUutTNoxrvQi4I_bob_SF473xHzQbd9uKDSeB0YavNI" width="100px;"><br><sub><b>Naman Khatwani</b></sub></a><br><a href="https://github.com/wordssaysalot/GoMysuru" title="Code">💻</a></td>
   </tr>
 </tbody></table>
